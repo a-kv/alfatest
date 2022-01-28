@@ -1,0 +1,35 @@
+.card-list {
+  display: flex;
+  gap: 20px;
+  flex-wrap: wrap;
+}
+
+.card {
+  background: #e5e5e5;
+  border-radius: 8px;
+  padding: 10px;
+  width: 150px;
+  height: 60px;
+  &__wrapper-panel {
+    display: flex;
+    justify-content: space-between;
+  }
+}
+
+.filter{
+  display: flex;
+  align-content: center;
+  margin-bottom: 20px;
+}
+.icon{
+  max-width: 20px;
+  color: black;
+  &:hover {
+    cursor: pointer;
+    color: #a31414;
+  }
+}
+.icon--active{
+  max-width: 21px;
+  color: #a31414;
+}
