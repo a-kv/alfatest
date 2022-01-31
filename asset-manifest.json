@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/alfatest/static/css/main.c5f43e33.css",
+    "main.js": "/alfatest/static/js/main.90261439.js",
+    "static/media/like-svgrepo-com.svg": "/alfatest/static/media/like-svgrepo-com.f95a30336e0f3d1a969c32d8dbc6b3ef.svg",
+    "static/media/delete_remove_trash_icon_177304.svg": "/alfatest/static/media/delete_remove_trash_icon_177304.a154e6b10039f241f1d44d7ad1238e4e.svg",
+    "index.html": "/alfatest/index.html",
+    "main.c5f43e33.css.map": "/alfatest/static/css/main.c5f43e33.css.map",
+    "main.90261439.js.map": "/alfatest/static/js/main.90261439.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c5f43e33.css",
+    "static/js/main.90261439.js"
+  ]
+}
